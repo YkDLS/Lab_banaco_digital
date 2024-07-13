@@ -23,28 +23,9 @@ Neste projeto, consolidei o aprendizado dos pilares da Programação Orientada a
 
 ## Tecnologias Utilizadas
 
-- Linguagem de Programação: [Nome da Linguagem] (Ex.: Java, Python, C#)
-- Ferramentas de Desenvolvimento: [IDE/Ferramentas usadas]
-- Controle de Versão: Git
-
-## Como Executar o Projeto
-
-1. Clone o repositório:
-    ```bash
-    git clone [URL do Repositório]
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd nome-do-projeto
-    ```
-3. Compile o código (se necessário):
-    ```bash
-    [Comando de compilação, se aplicável]
-    ```
-4. Execute o programa:
-    ```bash
-    [Comando para executar o programa]
-    ```
+- Linguagem de Programação:  Java
+- Ferramentas de Desenvolvimento: Intellij 
+- Controle de Versão: Git/Github
 
 ## Aprendizados
 
